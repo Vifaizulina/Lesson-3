@@ -37,11 +37,9 @@
 ![Команды Git](Команды%20Git.png)
 
 ## Ссылки
+Чтобы добавить ссылку, сделай по образцу: [Название ссылки](Ссылка)
 
-Чтобы добавить ссылку заполни по образцу: [Название ссылки](Ссылка)
-
-Пример:
-[*Презентация тут*](https://docs.google.com/presentation/d/116me-gOnT3T_yD56GG1bmM0Y_qfC7dhC18EC416TmAk/edit#slide=id.p11 ) 
+Пример: [*Презентация тут*](https://docs.google.com/presentation/d/116me-gOnT3T_yD56GG1bmM0Y_qfC7dhC18EC416TmAk/edit#slide=id.p11 ) 
 
 ## Работа с таблицами
 
